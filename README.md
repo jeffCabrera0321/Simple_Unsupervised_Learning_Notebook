@@ -9,7 +9,7 @@ The code was written with a notebook.
 ### Introduction
 Unsupervised learning is a branch of machine learning that identifies patterns in unlabeled data.
 
-**PCA** simplifies datasets by reducing the number of dimensions while retaining essential information.
+**PCA** simplifies datasets by reducing the number of dimensions while retaining essential information. <br />
 **KMeans Clustering** groups data points into clusters based on their similarities.
 This project demonstrates these concepts using sample datasets.
 
